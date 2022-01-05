@@ -1,4 +1,6 @@
-# RGB-LED-for-Arduino  
+# RGB-LED-for-Arduino
+
+---
 
 ## 开始使用  
 
@@ -7,7 +9,9 @@
 
 你也可阅读以下手册：  
 
-##手册  
+***
+
+## 手册  
 * You should define this RGB_LED before you use it in the outside  
     Like :  
         `RGB_LED RED1;`  
