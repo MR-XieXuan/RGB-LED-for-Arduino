@@ -1,5 +1,5 @@
 /*
-    RGB_RED.h
+    RGB_LED.h
 
     created 6 Jan 2022
     By MR-XieXuan
