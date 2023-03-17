@@ -19,6 +19,8 @@
         RGB_LED RED1;
 */
 
+#include <Arduino.h>
+
 class RGB_LED{
     public:
         /*
